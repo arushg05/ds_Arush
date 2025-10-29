@@ -1,0 +1,4 @@
+cluster,total_trades_count,total_trades_mean,total_profit_loss_mean,total_profit_loss_sum,average_profit_loss_mean,average_profit_loss_std,win_rate_mean,win_rate_std
+0,15,8079.33,288774.83,4331622.42,62.68,66.41,48.2,10.09
+1,6,3864.17,858259.16,5149554.96,324.25,132.5,34.42,8.18
+2,11,6076.64,70300.87,773309.57,19.25,33.17,32.72,3.45
